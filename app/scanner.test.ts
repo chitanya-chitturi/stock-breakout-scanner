@@ -1,0 +1,17 @@
+import assert from 'node:assert/strict';
+import {scan} from './scanner.ts';
+import {stocks} from './data.ts';
+assert.deepEqual(scan(stocks).map(s=>s.symbol),['SNDK','INTC']);
+const copy=()=>structuredClone(stocks[0]);
+let s=copy();s.cap=5e9;assert.equal(scan([s]).length,0);
+s=copy();s.bars.at(-1)!.volume=13157882.05;assert.equal(scan([s]).length,0);
+s=copy();s.bars.at(-1)!.close=1631.4;assert.equal(scan([s]).length,0);
+s=copy();s.bars.at(-1)!.final=false;assert.equal(scan([s]).length,0);
+s=copy();s.bars.at(-1)!.high=2500;assert.equal(scan([s])[0].high,1631.4);
+s=copy();Object.assign(s.bars.at(-1)!,{open:1450,high:1460,low:1300,close:1350});assert.equal(scan([s])[0].direction,'Breakdown');
+s=copy();s.bars.reverse();assert.equal(scan([s]).length,1);
+s=copy();s.bars.push(s.bars[0]);assert.equal(scan([s]).length,0);
+s=copy();s.bars.at(-1)!.volume=NaN;assert.equal(scan([s]).length,0);
+s=copy();s.bars=s.bars.slice(-20);assert.equal(scan([s]).length,0);
+s=copy();s.bars.forEach((b,i)=>Object.assign(b,{open:100+i*10,close:102+i*10,high:104+i*10,low:99+i*10}));assert.equal(scan([s]).length,0);
+console.log('12 checks passed: real snapshots, strict thresholds, unfinished candle, no signal-day lookahead, breakdown, ordering, invalid data, insufficient history, trend rejection.');
