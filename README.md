@@ -1,5 +1,17 @@
 # Stock Breakout Scanner
 
+## First run
+
+This repository contains source code and fixed test fixtures, not daily scan output.
+
+1. Install Node 22.18+ and pnpm, then run `pnpm install`.
+2. Create an ignored `.env.local` with `APCA_API_KEY_ID` and `APCA_API_SECRET_KEY`.
+3. Run `pnpm scan` to generate both versions using the same liquid stock list.
+4. Run `pnpm dev` and open the displayed local URL. Before the first scan, both tabs show setup instructions.
+
+Run `pnpm scan` again for fresh results. Generated charts, membership, reports and Version 1 data stay local and are ignored by Git. A production build includes the locally generated outputs; publishing does not require committing those outputs. `pnpm test` runs offline fixtures; `pnpm test:scan` checks the generated shared universe after a scan. Historical notes below describe earlier snapshots, not data included in a fresh checkout.
+
+
 ## Current version 2: liquidity-first universe
 
 Version 2 selects the **500 highest by 20-day average daily dollar volume** among supported US-listed common equities and ADRs with market cap strictly above $5B. It is no longer restricted to the S&P 500. Version 1 uses the same liquidity-selected 500 stocks in its default tab; its consolidation rules are unchanged.
@@ -102,3 +114,5 @@ The default scan attaches scores automatically. `pnpm patterns:grade` regrades a
 Run `pnpm version1:sync` after preparing the liquidity universe to refresh version 1's snapshot and `public/version1-signals.csv`. Original 100-stock data is preserved in `tests/v1-baseline.json` so the original regression tests continue to run on the original inputs. Legacy version 2 universe commands also read this frozen baseline, not version 1's expanded live dataset.
 
 September 4 snapshot: version 1 has 500/500 stocks with sufficient history and 14 consolidation signals. Version 2 remains unchanged at 497/500 because its minimum history is longer. The versions share membership, not signal eligibility rules.
+
+2026-09-06: Removed generated PNGs, reports, membership exports and embedded Version 1 market data from source control. Version 1 now loads generated JSON at runtime; confirmation rules remain unchanged. Kept the fixed baseline fixture and legacy universe as test/reproducibility inputs.

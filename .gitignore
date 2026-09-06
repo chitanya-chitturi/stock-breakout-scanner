@@ -37,5 +37,12 @@ next-env.d.ts
 /outputs/
 /work/
 
-# TypeScript incremental build cache
+# Generated scan output (regenerate with pnpm scan)
 *.tsbuildinfo
+/public/pattern-charts/
+/public/pattern-results.json
+/public/liquidity-universe.json
+/public/liquidity-universe.csv
+/public/version1-data.json
+/public/version1-signals.csv
+/public/top100-signals.csv

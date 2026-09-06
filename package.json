@@ -11,12 +11,14 @@
     "start": "wrangler dev --config dist/server/wrangler.json",
     "lint": "oxlint",
     "format": "oxfmt",
-    "test": "node --experimental-strip-types app/scanner.test.ts && node --experimental-strip-types app/patterns.test.ts && node scripts/liquidity.test.mjs && node --experimental-strip-types app/strength.test.ts && node --experimental-strip-types tests/v1-universe.test.ts",
+    "test": "node --experimental-strip-types app/scanner.test.ts && node --experimental-strip-types app/patterns.test.ts && node scripts/liquidity.test.mjs && node --experimental-strip-types app/strength.test.ts",
     "patterns:preview": "node --experimental-strip-types scripts/pattern-scan.mjs --offline",
     "patterns:scan": "node --experimental-strip-types scripts/pattern-scan.mjs",
     "typecheck": "tsc --noEmit",
     "patterns:grade": "node --experimental-strip-types scripts/score-report.mjs",
-    "version1:sync": "node --experimental-strip-types scripts/sync-version1.mjs"
+    "version1:sync": "node --experimental-strip-types scripts/sync-version1.mjs",
+    "scan": "pnpm patterns:scan && pnpm version1:sync",
+    "test:scan": "node --experimental-strip-types tests/v1-universe.test.ts"
   },
   "dependencies": {
     "@base-ui/react": "1.7.0",
