@@ -8,7 +8,7 @@ const strengthColor=(label:string)=>label==='Strong'?'#46d7a6':label==='Moderate
 export function PatternPanel(){
  const [strengthFilter,setStrengthFilter]=useState('All strengths');
  const [report,setReport]=useState<PatternReport|null>(null),[error,setError]=useState(''),[loading,setLoading]=useState(false),[showRejected,setShowRejected]=useState(false);
- async function refresh(){setLoading(true);setError('');try{const r=await fetch('/pattern-results.json',{cache:'no-store'});if(!r.ok)throw Error();setReport(await r.json());}catch{setError('Could not load the saved pattern report. Try again.');}finally{setLoading(false);}}
+ async function refresh(){setLoading(true);setError('');try{const r=await fetch('/pattern-results.json',{cache:'no-store'});if(r.status===404){setReport(null);setError('Run the scanner to generate results. Configure your Alpaca keys in .env.local, run pnpm scan, then reload this report.');return;}if(!r.ok)throw Error();setReport(await r.json());}catch{setError('Could not load the saved pattern report. Try again.');}finally{setLoading(false);}}
  useEffect(()=>{void refresh();},[]);
  const confirmed=(report?.results.filter(r=>r.status==='Confirmed')??[]).sort(rankStrength);
  const visible=(showRejected?[...(report?.results??[])].sort(rankStrength):confirmed).filter(r=>strengthFilter==='All strengths'||r.strength?.label===strengthFilter);
