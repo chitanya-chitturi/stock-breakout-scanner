@@ -1,0 +1,15 @@
+import assert from 'node:assert/strict';
+import {eligibleEquity,averageDollarVolume} from './liquidity.mjs';
+const row={symbol:'TEST',name:'Test Common Stock',marketCap:'6000000000'};
+assert.equal(eligibleEquity(row),true);
+assert.equal(eligibleEquity({...row,marketCap:'5000000000'}),false);
+assert.equal(eligibleEquity({...row,marketCap:'unknown'}),false);
+for(const name of ['Test Preferred Stock','Test ETF','Test Fund','Test Warrants','Test Units','Test Notes'])assert.equal(eligibleEquity({...row,name}),false);
+assert.equal(eligibleEquity({...row,name:'Test American Depositary Shares'}),true);
+const bars=Array.from({length:21},(_,i)=>({date:String(i),close:i+1,volume:(i+1)*10}));const dates=bars.slice(0,20).map(b=>b.date);
+assert.equal(averageDollarVolume(bars,dates),1435);
+bars[20].volume=1e15;assert.equal(averageDollarVolume(bars,dates),1435);
+assert.equal(averageDollarVolume(bars.slice(1),dates),null);
+assert.equal(averageDollarVolume([...bars,bars[0]],dates),null);
+bars[4].close=NaN;assert.equal(averageDollarVolume(bars,dates),null);
+console.log('Liquidity checks passed: security exclusions, strict cap cutoff, mean daily products, missing data and signal-day exclusion.');

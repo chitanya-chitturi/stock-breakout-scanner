@@ -1,0 +1,18 @@
+import fs from 'node:fs/promises';
+import path from 'node:path';
+import {fileURLToPath} from 'node:url';
+import {scan} from '../app/scanner.ts';
+const root=fileURLToPath(new URL('../',import.meta.url));
+const prepared=JSON.parse(await fs.readFile(path.join(root,'work/liquidity/prepared.json'),'utf8'));
+const universe=JSON.parse(await fs.readFile(path.join(root,'public/liquidity-universe.json'),'utf8'));
+const baseline=JSON.parse(await fs.readFile(path.join(root,'tests/v1-baseline.json'),'utf8'));
+const width=baseline[0].bars.length;
+const bySymbol=new Map(prepared.stocks.map(s=>[s.symbol,s]));
+const stocks=universe.members.map(member=>{const stock=bySymbol.get(member.symbol);if(!stock)throw Error('Missing data: '+member.symbol);const bars=stock.bars.slice(-width);if(bars.length<21||bars.at(-1).date!==prepared.session||bars.some(b=>!b.final))throw Error('Incomplete version 1 history: '+member.symbol);return {symbol:member.symbol,name:member.name,cap:member.cap,bars};});
+if(stocks.length!==500||new Set(stocks.map(s=>s.symbol)).size!==500)throw Error('Expected exactly 500 unique stocks.');
+const signals=scan(stocks);
+await fs.writeFile(path.join(root,'app/data.ts'),'import type {Stock} from "./scanner";\nexport const stocks:Stock[]='+JSON.stringify(stocks)+';\n');
+const cols=['symbol','name','direction','baseStart','baseEnd','sessions','level','close','volume','avg','ratio','cap'];
+const csv=cols.join(',')+'\n'+signals.map(r=>cols.map(k=>'"'+String(k==='close'?r.day.close:k==='volume'?r.day.volume:r[k]).replaceAll('"','""')+'"').join(',')).join('\n');
+await fs.writeFile(path.join(root,'public/version1-signals.csv'),csv);
+console.log(JSON.stringify({session:prepared.session,stocks:stocks.length,signals:signals.map(s=>({symbol:s.symbol,direction:s.direction,ratio:s.ratio}))},null,2));

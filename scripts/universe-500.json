@@ -1,0 +1,3002 @@
+[
+  {
+    "symbol": "NVDA",
+    "name": "NVIDIA Corporation",
+    "cap": 5560000000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "AAPL",
+    "name": "Apple Inc.",
+    "cap": 4670000000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "GOOGL",
+    "name": "Alphabet Inc.",
+    "cap": 4139999999999.9995,
+    "bars": []
+  },
+  {
+    "symbol": "GOOG",
+    "name": "Alphabet Inc.",
+    "cap": 4120000000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "MSFT",
+    "name": "Microsoft Corporation",
+    "cap": 3710000000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "AMZN",
+    "name": "Amazon.com, Inc.",
+    "cap": 2790000000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "AVGO",
+    "name": "Broadcom Inc.",
+    "cap": 1700000000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "META",
+    "name": "Meta Platforms, Inc.",
+    "cap": 1570000000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "TSLA",
+    "name": "Tesla, Inc.",
+    "cap": 1400000000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "MU",
+    "name": "Micron Technology, Inc.",
+    "cap": 1150000000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "BRK.B",
+    "name": "Berkshire Hathaway Inc.",
+    "cap": 1080000000000.0001,
+    "bars": []
+  },
+  {
+    "symbol": "LLY",
+    "name": "Eli Lilly and Company",
+    "cap": 1020000000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "JPM",
+    "name": "JPMorgan Chase & Co.",
+    "cap": 953330000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "WMT",
+    "name": "Walmart Inc.",
+    "cap": 850020000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "AMD",
+    "name": "Advanced Micro Devices, Inc.",
+    "cap": 779620000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "V",
+    "name": "Visa Inc.",
+    "cap": 688480000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "JNJ",
+    "name": "Johnson & Johnson",
+    "cap": 663280000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "XOM",
+    "name": "ExxonMobil Holdings Corporation",
+    "cap": 655730000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "MA",
+    "name": "Mastercard Incorporated",
+    "cap": 507390000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "INTC",
+    "name": "Intel Corporation",
+    "cap": 503380000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "ORCL",
+    "name": "Oracle Corporation",
+    "cap": 457360000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "ABBV",
+    "name": "AbbVie Inc.",
+    "cap": 453190000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "BAC",
+    "name": "Bank of America Corporation",
+    "cap": 438310000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "CSCO",
+    "name": "Cisco Systems, Inc.",
+    "cap": 430530000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "PLTR",
+    "name": "Palantir Technologies Inc.",
+    "cap": 418930000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "CVX",
+    "name": "Chevron Corporation",
+    "cap": 409190000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "COST",
+    "name": "Costco Wholesale Corporation",
+    "cap": 406110000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "LRCX",
+    "name": "Lam Research Corporation",
+    "cap": 384970000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "KO",
+    "name": "The Coca-Cola Company",
+    "cap": 378930000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "CAT",
+    "name": "Caterpillar Inc.",
+    "cap": 374150000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "MRK",
+    "name": "Merck & Co., Inc.",
+    "cap": 370890000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "AMAT",
+    "name": "Applied Materials, Inc.",
+    "cap": 360860000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "UNH",
+    "name": "UnitedHealth Group Incorporated",
+    "cap": 356470000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "GE",
+    "name": "GE Aerospace",
+    "cap": 349780000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "MS",
+    "name": "Morgan Stanley",
+    "cap": 341940000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "PG",
+    "name": "The Procter & Gamble Company",
+    "cap": 340130000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "DELL",
+    "name": "Dell Technologies Inc.",
+    "cap": 338670000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "NFLX",
+    "name": "Netflix, Inc.",
+    "cap": 325830000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "HD",
+    "name": "The Home Depot, Inc.",
+    "cap": 320310000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "GS",
+    "name": "The Goldman Sachs Group, Inc.",
+    "cap": 314460000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "PM",
+    "name": "Philip Morris International Inc.",
+    "cap": 284490000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "WFC",
+    "name": "Wells Fargo & Company",
+    "cap": 272070000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "PANW",
+    "name": "Palo Alto Networks, Inc.",
+    "cap": 271610000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "RTX",
+    "name": "RTX Corporation",
+    "cap": 270620000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "SNDK",
+    "name": "Sandisk Corporation",
+    "cap": 254770000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "GEV",
+    "name": "GE Vernova Inc.",
+    "cap": 250870000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "ANET",
+    "name": "Arista Networks, Inc.",
+    "cap": 244400000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "KLAC",
+    "name": "KLA Corporation",
+    "cap": 242500000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "AMGN",
+    "name": "Amgen Inc.",
+    "cap": 236380000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "TXN",
+    "name": "Texas Instruments Incorporated",
+    "cap": 236020000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "C",
+    "name": "Citigroup Inc.",
+    "cap": 231020000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "TMO",
+    "name": "Thermo Fisher Scientific Inc.",
+    "cap": 226940000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "IBM",
+    "name": "International Business Machines Corporation",
+    "cap": 221300000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "AXP",
+    "name": "American Express Company",
+    "cap": 220260000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "LIN",
+    "name": "Linde plc",
+    "cap": 220150000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "CRWD",
+    "name": "CrowdStrike Holdings, Inc.",
+    "cap": 218200000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "CRM",
+    "name": "Salesforce, Inc.",
+    "cap": 213350000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "VZ",
+    "name": "Verizon Communications Inc.",
+    "cap": 208320000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "APH",
+    "name": "Amphenol Corporation",
+    "cap": 204130000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "MRVL",
+    "name": "Marvell Technology, Inc.",
+    "cap": 196040000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "TMUS",
+    "name": "T-Mobile US, Inc.",
+    "cap": 194710000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "STX",
+    "name": "Seagate Technology Holdings plc",
+    "cap": 192480000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "SCHW",
+    "name": "The Charles Schwab Corporation",
+    "cap": 189000000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "PEP",
+    "name": "PepsiCo, Inc.",
+    "cap": 187850000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "ABT",
+    "name": "Abbott Laboratories",
+    "cap": 187450000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "GILD",
+    "name": "Gilead Sciences, Inc.",
+    "cap": 187230000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "DE",
+    "name": "Deere & Company",
+    "cap": 186990000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "BLK",
+    "name": "BlackRock, Inc.",
+    "cap": 182350000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "DIS",
+    "name": "The Walt Disney Company",
+    "cap": 181840000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "MCD",
+    "name": "McDonald's Corporation",
+    "cap": 180940000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "QCOM",
+    "name": "QUALCOMM Incorporated",
+    "cap": 180220000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "T",
+    "name": "AT&T Inc.",
+    "cap": 175970000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "ADI",
+    "name": "Analog Devices, Inc.",
+    "cap": 175530000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "NEE",
+    "name": "NextEra Energy, Inc.",
+    "cap": 174030000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "UNP",
+    "name": "Union Pacific Corporation",
+    "cap": 172060000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "WELL",
+    "name": "Welltower Inc.",
+    "cap": 170220000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "BX",
+    "name": "Blackstone Inc.",
+    "cap": 169350000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "WDC",
+    "name": "Western Digital Corporation",
+    "cap": 168540000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "BA",
+    "name": "The Boeing Company",
+    "cap": 167760000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "PFE",
+    "name": "Pfizer Inc.",
+    "cap": 162160000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "COP",
+    "name": "ConocoPhillips",
+    "cap": 161290000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "ETN",
+    "name": "Eaton Corporation plc",
+    "cap": 159570000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "UBER",
+    "name": "Uber Technologies, Inc.",
+    "cap": 154740000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "NOW",
+    "name": "ServiceNow, Inc.",
+    "cap": 146040000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "DHR",
+    "name": "Danaher Corporation",
+    "cap": 145980000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "TJX",
+    "name": "The TJX Companies, Inc.",
+    "cap": 145280000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "BKNG",
+    "name": "Booking Holdings Inc.",
+    "cap": 145230000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "VRTX",
+    "name": "Vertex Pharmaceuticals Incorporated",
+    "cap": 138420000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "BMY",
+    "name": "Bristol-Myers Squibb Company",
+    "cap": 136490000000.00002,
+    "bars": []
+  },
+  {
+    "symbol": "COF",
+    "name": "Capital One Financial Corporation",
+    "cap": 134720000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "NEM",
+    "name": "Newmont Corporation",
+    "cap": 134600000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "PLD",
+    "name": "Prologis, Inc.",
+    "cap": 133160000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "GLW",
+    "name": "Corning Incorporated",
+    "cap": 132910000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "CB",
+    "name": "Chubb Limited",
+    "cap": 131789999999.99998,
+    "bars": []
+  },
+  {
+    "symbol": "SPGI",
+    "name": "S&P Global Inc.",
+    "cap": 130740000000.00002,
+    "bars": []
+  },
+  {
+    "symbol": "ISRG",
+    "name": "Intuitive Surgical, Inc.",
+    "cap": 129550000000.00002,
+    "bars": []
+  },
+  {
+    "symbol": "PGR",
+    "name": "The Progressive Corporation",
+    "cap": 127290000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "CVS",
+    "name": "CVS Health Corporation",
+    "cap": 123730000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "PH",
+    "name": "Parker-Hannifin Corporation",
+    "cap": 121330000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "LMT",
+    "name": "Lockheed Martin Corporation",
+    "cap": 121230000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "MDT",
+    "name": "Medtronic plc",
+    "cap": 120460000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "SBUX",
+    "name": "Starbucks Corporation",
+    "cap": 119070000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "SYK",
+    "name": "Stryker Corporation",
+    "cap": 116270000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "MO",
+    "name": "Altria Group, Inc.",
+    "cap": 115010000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "LOW",
+    "name": "Lowe's Companies, Inc.",
+    "cap": 114710000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "FTNT",
+    "name": "Fortinet, Inc.",
+    "cap": 114670000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "ACN",
+    "name": "Accenture plc",
+    "cap": 114260000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "BNY",
+    "name": "The Bank of New York Mellon Corporation",
+    "cap": 111840000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "ADP",
+    "name": "Automatic Data Processing, Inc.",
+    "cap": 110290000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "HOOD",
+    "name": "Robinhood Markets, Inc.",
+    "cap": 109790000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "MPC",
+    "name": "Marathon Petroleum Corporation",
+    "cap": 109210000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "VRT",
+    "name": "Vertiv Holdings Co",
+    "cap": 108000000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "APP",
+    "name": "AppLovin Corporation",
+    "cap": 107280000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "ABNB",
+    "name": "Airbnb, Inc.",
+    "cap": 107270000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "VLO",
+    "name": "Valero Energy Corporation",
+    "cap": 106740000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "ADBE",
+    "name": "Adobe Inc.",
+    "cap": 105940000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "CEG",
+    "name": "Constellation Energy Corporation",
+    "cap": 105920000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "MCK",
+    "name": "McKesson Corporation",
+    "cap": 105860000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "FCX",
+    "name": "Freeport-McMoRan Inc.",
+    "cap": 104440000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "HWM",
+    "name": "Howmet Aerospace Inc.",
+    "cap": 103400000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "EQIX",
+    "name": "Equinix, Inc.",
+    "cap": 102220000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "PSX",
+    "name": "Phillips 66",
+    "cap": 101790000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "SO",
+    "name": "The Southern Company",
+    "cap": 101360000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "CME",
+    "name": "CME Group Inc.",
+    "cap": 101150000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "USB",
+    "name": "U.S. Bancorp",
+    "cap": 98730000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "TT",
+    "name": "Trane Technologies plc",
+    "cap": 98550000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "PNC",
+    "name": "The PNC Financial Services Group, Inc.",
+    "cap": 97980000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "GD",
+    "name": "General Dynamics Corporation",
+    "cap": 97090000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "KKR",
+    "name": "KKR & Co. Inc.",
+    "cap": 96700000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "CMCSA",
+    "name": "Comcast Corporation",
+    "cap": 94000000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "PWR",
+    "name": "Quanta Services, Inc.",
+    "cap": 93880000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "DUK",
+    "name": "Duke Energy Corporation",
+    "cap": 93740000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "DASH",
+    "name": "DoorDash, Inc.",
+    "cap": 91740000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "CSX",
+    "name": "CSX Corporation",
+    "cap": 91520000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "INTU",
+    "name": "Intuit Inc.",
+    "cap": 91010000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "WMB",
+    "name": "The Williams Companies, Inc.",
+    "cap": 90700000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "ICE",
+    "name": "Intercontinental Exchange, Inc.",
+    "cap": 90530000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "MRSH",
+    "name": "Marsh & McLennan Companies, Inc.",
+    "cap": 88640000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "ELV",
+    "name": "Elevance Health, Inc.",
+    "cap": 88370000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "JCI",
+    "name": "Johnson Controls International plc",
+    "cap": 87800000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "MAR",
+    "name": "Marriott International, Inc.",
+    "cap": 87750000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "HCA",
+    "name": "HCA Healthcare, Inc.",
+    "cap": 87680000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "WM",
+    "name": "Waste Management, Inc.",
+    "cap": 87530000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "UPS",
+    "name": "United Parcel Service, Inc.",
+    "cap": 87030000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "MMM",
+    "name": "3M Company",
+    "cap": 86930000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "MNST",
+    "name": "Monster Beverage Corporation",
+    "cap": 85850000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "MCO",
+    "name": "Moody's Corporation",
+    "cap": 85470000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "SLB",
+    "name": "SLB N.V.",
+    "cap": 85350000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "EMR",
+    "name": "Emerson Electric Co.",
+    "cap": 85240000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "CVNA",
+    "name": "Carvana Co.",
+    "cap": 83110000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "REGN",
+    "name": "Regeneron Pharmaceuticals, Inc.",
+    "cap": 82650000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "AMT",
+    "name": "American Tower Corporation",
+    "cap": 81940000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "CDNS",
+    "name": "Cadence Design Systems, Inc.",
+    "cap": 80610000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "SHW",
+    "name": "The Sherwin-Williams Company",
+    "cap": 80530000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "CTAS",
+    "name": "Cintas Corporation",
+    "cap": 80220000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "SPG",
+    "name": "Simon Property Group, Inc.",
+    "cap": 79460000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "LITE",
+    "name": "Lumentum Holdings Inc.",
+    "cap": 79050000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "APO",
+    "name": "Apollo Global Management, Inc.",
+    "cap": 78940000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "ECL",
+    "name": "Ecolab Inc.",
+    "cap": 78290000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "MDLZ",
+    "name": "Mondelez International, Inc.",
+    "cap": 78210000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "MSI",
+    "name": "Motorola Solutions, Inc.",
+    "cap": 77460000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "CMI",
+    "name": "Cummins Inc.",
+    "cap": 77200000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "TRV",
+    "name": "The Travelers Companies, Inc.",
+    "cap": 77040000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "GM",
+    "name": "General Motors Company",
+    "cap": 77010000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "ITW",
+    "name": "Illinois Tool Works Inc.",
+    "cap": 76930000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "DDOG",
+    "name": "Datadog, Inc.",
+    "cap": 76460000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "FDX",
+    "name": "FedEx Corporation",
+    "cap": 76330000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "EOG",
+    "name": "EOG Resources, Inc.",
+    "cap": 76160000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "SNPS",
+    "name": "Synopsys, Inc.",
+    "cap": 75470000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "TGT",
+    "name": "Target Corporation",
+    "cap": 74700000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "CI",
+    "name": "The Cigna Group",
+    "cap": 74650000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "NSC",
+    "name": "Norfolk Southern Corporation",
+    "cap": 74000000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "ROST",
+    "name": "Ross Stores, Inc.",
+    "cap": 73690000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "NOC",
+    "name": "Northrop Grumman Corporation",
+    "cap": 73160000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "DLR",
+    "name": "Digital Realty Trust, Inc.",
+    "cap": 71150000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "ORLY",
+    "name": "O'Reilly Automotive, Inc.",
+    "cap": 71100000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "WBD",
+    "name": "Warner Bros. Discovery, Inc.",
+    "cap": 70930000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "RCL",
+    "name": "Royal Caribbean Cruises Ltd.",
+    "cap": 70930000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "CL",
+    "name": "Colgate-Palmolive Company",
+    "cap": 70770000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "HLT",
+    "name": "Hilton Worldwide Holdings Inc.",
+    "cap": 70040000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "KMI",
+    "name": "Kinder Morgan, Inc.",
+    "cap": 69920000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "BSX",
+    "name": "Boston Scientific Corporation",
+    "cap": 69270000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "HPE",
+    "name": "Hewlett Packard Enterprise Company",
+    "cap": 69030000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "AON",
+    "name": "Aon plc",
+    "cap": 68540000000.00001,
+    "bars": []
+  },
+  {
+    "symbol": "RSG",
+    "name": "Republic Services, Inc.",
+    "cap": 68200000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "AEP",
+    "name": "American Electric Power Company, Inc.",
+    "cap": 67780000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "AJG",
+    "name": "Arthur J. Gallagher & Co.",
+    "cap": 67340000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "APD",
+    "name": "Air Products and Chemicals, Inc.",
+    "cap": 67090000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "HON",
+    "name": "Honeywell International Inc.",
+    "cap": 66430000000.00001,
+    "bars": []
+  },
+  {
+    "symbol": "PCAR",
+    "name": "PACCAR Inc",
+    "cap": 65640000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "ALL",
+    "name": "The Allstate Corporation",
+    "cap": 65629999999.99999,
+    "bars": []
+  },
+  {
+    "symbol": "TDG",
+    "name": "TransDigm Group Incorporated",
+    "cap": 64230000000.00001,
+    "bars": []
+  },
+  {
+    "symbol": "COR",
+    "name": "Cencora, Inc.",
+    "cap": 63150000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "TFC",
+    "name": "Truist Financial Corporation",
+    "cap": 63100000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "BKR",
+    "name": "Baker Hughes Company",
+    "cap": 63030000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "URI",
+    "name": "United Rentals, Inc.",
+    "cap": 62860000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "CRH",
+    "name": "CRH plc",
+    "cap": 62710000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "GWW",
+    "name": "W.W. Grainger, Inc.",
+    "cap": 62380000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "TRGP",
+    "name": "Targa Resources Corp.",
+    "cap": 62200000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "MET",
+    "name": "MetLife, Inc.",
+    "cap": 62040000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "TEL",
+    "name": "TE Connectivity plc",
+    "cap": 60410000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "OKE",
+    "name": "ONEOK, Inc.",
+    "cap": 60160000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "MPWR",
+    "name": "Monolithic Power Systems, Inc.",
+    "cap": 60140000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "OXY",
+    "name": "Occidental Petroleum Corporation",
+    "cap": 60020000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "NUE",
+    "name": "Nucor Corporation",
+    "cap": 59230000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "AFL",
+    "name": "Aflac Incorporated",
+    "cap": 58760000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "PSA",
+    "name": "Public Storage",
+    "cap": 58640000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "CTVA",
+    "name": "Corteva, Inc.",
+    "cap": 58620000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "F",
+    "name": "Ford Motor Company",
+    "cap": 58300000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "MRNA",
+    "name": "Moderna, Inc.",
+    "cap": 58110000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "O",
+    "name": "Realty Income Corporation",
+    "cap": 57940000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "D",
+    "name": "Dominion Energy, Inc.",
+    "cap": 57910000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "CAH",
+    "name": "Cardinal Health, Inc.",
+    "cap": 57490000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "NXPI",
+    "name": "NXP Semiconductors N.V.",
+    "cap": 57450000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "NKE",
+    "name": "NIKE, Inc.",
+    "cap": 56970000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "FAST",
+    "name": "Fastenal Company",
+    "cap": 56920000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "FIX",
+    "name": "Comfort Systems USA, Inc.",
+    "cap": 56580000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "TER",
+    "name": "Teradyne, Inc.",
+    "cap": 55820000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "FANG",
+    "name": "Diamondback Energy, Inc.",
+    "cap": 55790000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "KEYS",
+    "name": "Keysight Technologies, Inc.",
+    "cap": 55710000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "DVN",
+    "name": "Devon Energy Corporation",
+    "cap": 55260000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "COHR",
+    "name": "Coherent Corp.",
+    "cap": 55200000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "SRE",
+    "name": "Sempra",
+    "cap": 54950000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "AME",
+    "name": "AMETEK, Inc.",
+    "cap": 54500000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "NDAQ",
+    "name": "Nasdaq, Inc.",
+    "cap": 54150000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "GRMN",
+    "name": "Garmin Ltd.",
+    "cap": 53430000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "STT",
+    "name": "State Street Corporation",
+    "cap": 53360000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "DAL",
+    "name": "Delta Air Lines, Inc.",
+    "cap": 52440000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "EW",
+    "name": "Edwards Lifesciences Corporation",
+    "cap": 51820000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "ETR",
+    "name": "Entergy Corporation",
+    "cap": 51250000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "HONA",
+    "name": "Honeywell Aerospace Inc.",
+    "cap": 51030000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "VMRK",
+    "name": "Vivmark Residential",
+    "cap": 50570000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "BDX",
+    "name": "Becton, Dickinson and Company",
+    "cap": 50320000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "VST",
+    "name": "Vistra Corp.",
+    "cap": 50110000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "XYZ",
+    "name": "Block, Inc.",
+    "cap": 50030000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "FITB",
+    "name": "Fifth Third Bancorp",
+    "cap": 49760000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "AMP",
+    "name": "Ameriprise Financial, Inc.",
+    "cap": 49520000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "CARR",
+    "name": "Carrier Global Corporation",
+    "cap": 49220000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "COIN",
+    "name": "Coinbase Global, Inc.",
+    "cap": 48710000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "AZO",
+    "name": "AutoZone, Inc.",
+    "cap": 48700000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "HUM",
+    "name": "Humana Inc.",
+    "cap": 48220000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "ROK",
+    "name": "Rockwell Automation, Inc.",
+    "cap": 48170000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "WAB",
+    "name": "Westinghouse Air Brake Technologies Corporation",
+    "cap": 47780000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "LHX",
+    "name": "L3Harris Technologies, Inc.",
+    "cap": 47750000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "XEL",
+    "name": "Xcel Energy Inc.",
+    "cap": 47300000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "WDAY",
+    "name": "Workday, Inc.",
+    "cap": 47190000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "PYPL",
+    "name": "PayPal Holdings, Inc.",
+    "cap": 47020000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "CMG",
+    "name": "Chipotle Mexican Grill, Inc.",
+    "cap": 46770000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "VTR",
+    "name": "Ventas, Inc.",
+    "cap": 46610000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "ARES",
+    "name": "Ares Management Corporation",
+    "cap": 46290000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "EBAY",
+    "name": "eBay Inc.",
+    "cap": 46020000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "ADSK",
+    "name": "Autodesk, Inc.",
+    "cap": 45540000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "CIEN",
+    "name": "Ciena Corporation",
+    "cap": 45520000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "EXC",
+    "name": "Exelon Corporation",
+    "cap": 45050000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "VEEV",
+    "name": "Veeva Systems Inc.",
+    "cap": 44540000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "KDP",
+    "name": "Keurig Dr Pepper Inc.",
+    "cap": 44350000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "FERG",
+    "name": "Ferguson Enterprises Inc.",
+    "cap": 44190000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "IQV",
+    "name": "IQVIA Holdings Inc.",
+    "cap": 44070000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "PAYX",
+    "name": "Paychex, Inc.",
+    "cap": 43330000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "CBRE",
+    "name": "CBRE Group, Inc.",
+    "cap": 42810000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "A",
+    "name": "Agilent Technologies, Inc.",
+    "cap": 42530000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "IDXX",
+    "name": "IDEXX Laboratories, Inc.",
+    "cap": 42180000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "PRU",
+    "name": "Prudential Financial, Inc.",
+    "cap": 42120000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "IBKR",
+    "name": "Interactive Brokers Group, Inc.",
+    "cap": 41960000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "AXON",
+    "name": "Axon Enterprise, Inc.",
+    "cap": 41890000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "MSCI",
+    "name": "MSCI Inc.",
+    "cap": 41660000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "YUM",
+    "name": "Yum! Brands, Inc.",
+    "cap": 41130000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "ADM",
+    "name": "Archer-Daniels-Midland Company",
+    "cap": 40780000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "FLEX",
+    "name": "Flex Ltd.",
+    "cap": 40450000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "LYV",
+    "name": "Live Nation Entertainment, Inc.",
+    "cap": 40420000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "ROP",
+    "name": "Roper Technologies, Inc.",
+    "cap": 40280000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "MCHP",
+    "name": "Microchip Technology Incorporated",
+    "cap": 40270000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "WAT",
+    "name": "Waters Corporation",
+    "cap": 40220000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "TTWO",
+    "name": "Take-Two Interactive Software, Inc.",
+    "cap": 40140000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "DHI",
+    "name": "D.R. Horton, Inc.",
+    "cap": 39930000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "AIG",
+    "name": "American International Group, Inc.",
+    "cap": 39850000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "ED",
+    "name": "Consolidated Edison, Inc.",
+    "cap": 39680000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "ODFL",
+    "name": "Old Dominion Freight Line, Inc.",
+    "cap": 38540000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "SYY",
+    "name": "Sysco Corporation",
+    "cap": 38350000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "EL",
+    "name": "The Est\u00e9e Lauder Companies Inc.",
+    "cap": 37580000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "HIG",
+    "name": "The Hartford Insurance Group, Inc.",
+    "cap": 37480000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "PEG",
+    "name": "Public Service Enterprise Group Incorporated",
+    "cap": 36730000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "MLM",
+    "name": "Martin Marietta Materials, Inc.",
+    "cap": 36560000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "NTAP",
+    "name": "NetApp, Inc.",
+    "cap": 36450000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "UAL",
+    "name": "United Airlines Holdings, Inc.",
+    "cap": 36150000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "KVUE",
+    "name": "Kenvue Inc.",
+    "cap": 36000000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "KR",
+    "name": "The Kroger Co.",
+    "cap": 35920000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "EXPE",
+    "name": "Expedia Group, Inc.",
+    "cap": 35770000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "TKO",
+    "name": "TKO Group Holdings, Inc.",
+    "cap": 35210000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "KMB",
+    "name": "Kimberly-Clark Corporation",
+    "cap": 34910000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "HSY",
+    "name": "The Hershey Company",
+    "cap": 34790000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "IRM",
+    "name": "Iron Mountain Incorporated",
+    "cap": 34790000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "STLD",
+    "name": "Steel Dynamics, Inc.",
+    "cap": 34690000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "MTB",
+    "name": "M&T Bank Corporation",
+    "cap": 34640000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "WEC",
+    "name": "WEC Energy Group, Inc.",
+    "cap": 34520000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "EQT",
+    "name": "EQT Corporation",
+    "cap": 34510000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "HBAN",
+    "name": "Huntington Bancshares Incorporated",
+    "cap": 34410000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "RJF",
+    "name": "Raymond James Financial, Inc.",
+    "cap": 34299999999.999996,
+    "bars": []
+  },
+  {
+    "symbol": "NTRS",
+    "name": "Northern Trust Corporation",
+    "cap": 34150000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "VMC",
+    "name": "Vulcan Materials Company",
+    "cap": 34030000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "ACGL",
+    "name": "Arch Capital Group Ltd.",
+    "cap": 33340000000.000004,
+    "bars": []
+  },
+  {
+    "symbol": "EME",
+    "name": "EMCOR Group, Inc.",
+    "cap": 33270000000.000004,
+    "bars": []
+  },
+  {
+    "symbol": "DXCM",
+    "name": "DexCom, Inc.",
+    "cap": 33170000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "CNC",
+    "name": "Centene Corporation",
+    "cap": 33119999999.999996,
+    "bars": []
+  },
+  {
+    "symbol": "RMD",
+    "name": "ResMed Inc.",
+    "cap": 32939999999.999996,
+    "bars": []
+  },
+  {
+    "symbol": "BIIB",
+    "name": "Biogen Inc.",
+    "cap": 32630000000.000004,
+    "bars": []
+  },
+  {
+    "symbol": "JBL",
+    "name": "Jabil Inc.",
+    "cap": 32540000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "CCI",
+    "name": "Crown Castle Inc.",
+    "cap": 32259999999.999996,
+    "bars": []
+  },
+  {
+    "symbol": "CCL",
+    "name": "Carnival Corporation Ltd.",
+    "cap": 32200000000.000004,
+    "bars": []
+  },
+  {
+    "symbol": "PCG",
+    "name": "PG&E Corporation",
+    "cap": 31490000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "ZTS",
+    "name": "Zoetis Inc.",
+    "cap": 31330000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "CPRT",
+    "name": "Copart, Inc.",
+    "cap": 31220000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "CBOE",
+    "name": "Cboe Global Markets, Inc.",
+    "cap": 31160000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "GEHC",
+    "name": "GE HealthCare Technologies Inc.",
+    "cap": 31100000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "WTW",
+    "name": "Willis Towers Watson Public Limited Company",
+    "cap": 31090000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "HAL",
+    "name": "Halliburton Company",
+    "cap": 30880000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "EXR",
+    "name": "Extra Space Storage Inc.",
+    "cap": 30730000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "CFG",
+    "name": "Citizens Financial Group, Inc.",
+    "cap": 29810000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "RDDT",
+    "name": "Reddit, Inc.",
+    "cap": 29720000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "IR",
+    "name": "Ingersoll Rand Inc.",
+    "cap": 29630000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "AEE",
+    "name": "Ameren Corporation",
+    "cap": 29480000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "KHC",
+    "name": "The Kraft Heinz Company",
+    "cap": 29470000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "HPQ",
+    "name": "HP Inc.",
+    "cap": 29430000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "DG",
+    "name": "Dollar General Corporation",
+    "cap": 29390000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "ON",
+    "name": "ON Semiconductor Corporation",
+    "cap": 28960000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "LVS",
+    "name": "Las Vegas Sands Corp.",
+    "cap": 28740000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "DTE",
+    "name": "DTE Energy Company",
+    "cap": 28320000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "ATO",
+    "name": "Atmos Energy Corporation",
+    "cap": 28320000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "TDY",
+    "name": "Teledyne Technologies Incorporated",
+    "cap": 28310000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "FISV",
+    "name": "Fiserv, Inc.",
+    "cap": 28180000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "CTSH",
+    "name": "Cognizant Technology Solutions Corporation",
+    "cap": 28070000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "VICI",
+    "name": "VICI Properties Inc.",
+    "cap": 27990000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "CASY",
+    "name": "Casey's General Stores, Inc.",
+    "cap": 27980000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "AWK",
+    "name": "American Water Works Company, Inc.",
+    "cap": 27960000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "FOXA",
+    "name": "Fox Corporation",
+    "cap": 27510000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "CPAY",
+    "name": "Corpay, Inc.",
+    "cap": 27340000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "OTIS",
+    "name": "Otis Worldwide Corporation",
+    "cap": 27110000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "FE",
+    "name": "FirstEnergy Corp.",
+    "cap": 27060000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "MTD",
+    "name": "Mettler-Toledo International Inc.",
+    "cap": 26950000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "WRB",
+    "name": "W. R. Berkley Corporation",
+    "cap": 26870000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "WSM",
+    "name": "Williams-Sonoma, Inc.",
+    "cap": 26790000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "ES",
+    "name": "Eversource Energy",
+    "cap": 26760000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "LH",
+    "name": "Labcorp Holdings Inc.",
+    "cap": 26510000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "PPL",
+    "name": "PPL Corporation",
+    "cap": 26420000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "VRSN",
+    "name": "VeriSign, Inc.",
+    "cap": 26370000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "CINF",
+    "name": "Cincinnati Financial Corporation",
+    "cap": 26260000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "DGX",
+    "name": "Quest Diagnostics Incorporated",
+    "cap": 26170000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "CNP",
+    "name": "CenterPoint Energy, Inc.",
+    "cap": 26130000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "ECHO",
+    "name": "EchoStar Corporation",
+    "cap": 26090000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "SMCI",
+    "name": "Super Micro Computer, Inc.",
+    "cap": 26010000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "SYF",
+    "name": "Synchrony Financial",
+    "cap": 26000000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "DOV",
+    "name": "Dover Corporation",
+    "cap": 25980000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "FOX",
+    "name": "Fox Corporation",
+    "cap": 25960000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "RF",
+    "name": "Regions Financial Corporation",
+    "cap": 25920000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "JBHT",
+    "name": "J.B. Hunt Transport Services, Inc.",
+    "cap": 25710000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "INCY",
+    "name": "Incyte Corporation",
+    "cap": 25690000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "Q",
+    "name": "Qnity Electronics, Inc.",
+    "cap": 25200000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "NRG",
+    "name": "NRG Energy, Inc.",
+    "cap": 25020000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "PPG",
+    "name": "PPG Industries, Inc.",
+    "cap": 25020000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "TPL",
+    "name": "Texas Pacific Land Corporation",
+    "cap": 25000000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "PFG",
+    "name": "Principal Financial Group, Inc.",
+    "cap": 24980000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "CHTR",
+    "name": "Charter Communications, Inc.",
+    "cap": 24860000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "XYL",
+    "name": "Xylem Inc.",
+    "cap": 24680000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "DLTR",
+    "name": "Dollar Tree, Inc.",
+    "cap": 24660000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "DRI",
+    "name": "Darden Restaurants, Inc.",
+    "cap": 24620000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "EXPD",
+    "name": "Expeditors International of Washington, Inc.",
+    "cap": 24540000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "GPN",
+    "name": "Global Payments Inc.",
+    "cap": 24490000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "TPR",
+    "name": "Tapestry, Inc.",
+    "cap": 24350000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "HUBB",
+    "name": "Hubbell Incorporated",
+    "cap": 24340000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "VRSK",
+    "name": "Verisk Analytics, Inc.",
+    "cap": 24180000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "ULTA",
+    "name": "Ulta Beauty, Inc.",
+    "cap": 24120000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "SW",
+    "name": "Smurfit Westrock Plc",
+    "cap": 24010000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "WST",
+    "name": "West Pharmaceutical Services, Inc.",
+    "cap": 23930000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "BRO",
+    "name": "Brown & Brown, Inc.",
+    "cap": 23900000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "KEY",
+    "name": "KeyCorp",
+    "cap": 23670000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "VLTO",
+    "name": "Veralto Corporation",
+    "cap": 23480000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "TROW",
+    "name": "T. Rowe Price Group, Inc.",
+    "cap": 23420000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "CHD",
+    "name": "Church & Dwight Co., Inc.",
+    "cap": 23380000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "PHM",
+    "name": "PulteGroup, Inc.",
+    "cap": 23330000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "BG",
+    "name": "Bunge Global SA",
+    "cap": 22810000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "EXE",
+    "name": "Expand Energy Corporation",
+    "cap": 22670000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "OMC",
+    "name": "Omnicom Group Inc.",
+    "cap": 22670000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "L",
+    "name": "Loews Corporation",
+    "cap": 22340000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "FFIV",
+    "name": "F5, Inc.",
+    "cap": 22110000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "IFF",
+    "name": "International Flavors & Fragrances Inc.",
+    "cap": 22030000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "FSLR",
+    "name": "First Solar, Inc.",
+    "cap": 21970000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "STE",
+    "name": "STERIS plc",
+    "cap": 21900000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "STZ",
+    "name": "Constellation Brands, Inc.",
+    "cap": 21890000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "EIX",
+    "name": "Edison International",
+    "cap": 21850000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "FIS",
+    "name": "Fidelity National Information Services, Inc.",
+    "cap": 21600000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "CMS",
+    "name": "CMS Energy Corporation",
+    "cap": 21470000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "DOW",
+    "name": "Dow Inc.",
+    "cap": 21270000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "PKG",
+    "name": "Packaging Corporation of America",
+    "cap": 21010000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "RL",
+    "name": "Ralph Lauren Corporation",
+    "cap": 20930000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "AMCR",
+    "name": "Amcor plc",
+    "cap": 20860000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "EFX",
+    "name": "Equifax Inc.",
+    "cap": 20800000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "LYB",
+    "name": "LyondellBasell Industries N.V.",
+    "cap": 20520000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "GIS",
+    "name": "General Mills, Inc.",
+    "cap": 20470000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "CF",
+    "name": "CF Industries Holdings, Inc.",
+    "cap": 20180000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "FICO",
+    "name": "Fair Isaac Corporation",
+    "cap": 20130000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "LEN",
+    "name": "Lennar Corporation",
+    "cap": 20130000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "SBAC",
+    "name": "SBA Communications Corporation",
+    "cap": 20100000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "NI",
+    "name": "NiSource Inc.",
+    "cap": 19850000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "SNA",
+    "name": "Snap-on Incorporated",
+    "cap": 19810000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "IP",
+    "name": "International Paper Company",
+    "cap": 19720000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "BR",
+    "name": "Broadridge Financial Solutions, Inc.",
+    "cap": 19710000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "VTRS",
+    "name": "Viatris Inc.",
+    "cap": 19390000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "LUV",
+    "name": "Southwest Airlines Co.",
+    "cap": 19380000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "FDXF",
+    "name": "FedEx Freight Holding Company, Inc.",
+    "cap": 19360000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "CDW",
+    "name": "CDW Corporation",
+    "cap": 19050000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "GPC",
+    "name": "Genuine Parts Company",
+    "cap": 19040000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "BBY",
+    "name": "Best Buy Co., Inc.",
+    "cap": 18930000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "EVRG",
+    "name": "Evergy, Inc.",
+    "cap": 18800000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "ZBH",
+    "name": "Zimmer Biomet Holdings, Inc.",
+    "cap": 18710000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "ESS",
+    "name": "Essex Property Trust, Inc.",
+    "cap": 18510000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "GEN",
+    "name": "Gen Digital Inc.",
+    "cap": 18350000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "TSCO",
+    "name": "Tractor Supply Company",
+    "cap": 18230000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "TSN",
+    "name": "Tyson Foods, Inc.",
+    "cap": 18040000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "DD",
+    "name": "DuPont de Nemours, Inc.",
+    "cap": 17770000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "NDSN",
+    "name": "Nordson Corporation",
+    "cap": 17730000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "BEN",
+    "name": "Franklin Templeton Inc.",
+    "cap": 17650000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "LNT",
+    "name": "Alliant Energy Corporation",
+    "cap": 17620000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "ROL",
+    "name": "Rollins, Inc.",
+    "cap": 17250000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "CHRW",
+    "name": "C.H. Robinson Worldwide, Inc.",
+    "cap": 17250000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "FTV",
+    "name": "Fortive Corporation",
+    "cap": 17200000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "ZBRA",
+    "name": "Zebra Technologies Corporation",
+    "cap": 17160000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "J",
+    "name": "Jacobs Solutions Inc.",
+    "cap": 17110000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "NWS",
+    "name": "News Corporation",
+    "cap": 17059999999.999998,
+    "bars": []
+  },
+  {
+    "symbol": "INVH",
+    "name": "Invitation Homes Inc.",
+    "cap": 16829999999.999998,
+    "bars": []
+  },
+  {
+    "symbol": "NVR",
+    "name": "NVR, Inc.",
+    "cap": 16790000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "LDOS",
+    "name": "Leidos Holdings, Inc.",
+    "cap": 16700000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "WY",
+    "name": "Weyerhaeuser Company",
+    "cap": 16590000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "BALL",
+    "name": "Ball Corporation",
+    "cap": 16590000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "IEX",
+    "name": "IDEX Corporation",
+    "cap": 16489999999.999998,
+    "bars": []
+  },
+  {
+    "symbol": "NWSA",
+    "name": "News Corporation",
+    "cap": 16430000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "KIM",
+    "name": "Kimco Realty Corporation",
+    "cap": 15870000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "SOLV",
+    "name": "Solventum Corporation",
+    "cap": 15610000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "HST",
+    "name": "Host Hotels & Resorts, Inc.",
+    "cap": 15320000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "PTC",
+    "name": "PTC Inc.",
+    "cap": 15300000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "MAA",
+    "name": "Mid-America Apartment Communities, Inc.",
+    "cap": 15260000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "AKAM",
+    "name": "Akamai Technologies, Inc.",
+    "cap": 15120000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "APA",
+    "name": "APA Corporation",
+    "cap": 14980000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "TYL",
+    "name": "Tyler Technologies, Inc.",
+    "cap": 14910000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "ALB",
+    "name": "Albemarle Corporation",
+    "cap": 14900000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "SWK",
+    "name": "Stanley Black & Decker, Inc.",
+    "cap": 14700000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "EG",
+    "name": "Everest Group, Ltd.",
+    "cap": 14600000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "IVZ",
+    "name": "Invesco Ltd.",
+    "cap": 14600000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "RVTY",
+    "name": "Revvity, Inc.",
+    "cap": 14530000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "DOC",
+    "name": "Healthpeak Properties, Inc.",
+    "cap": 14510000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "MAS",
+    "name": "Masco Corporation",
+    "cap": 14280000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "AIZ",
+    "name": "Assurant, Inc.",
+    "cap": 14090000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "REG",
+    "name": "Regency Centers Corporation",
+    "cap": 14040000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "MKC",
+    "name": "McCormick & Company, Incorporated",
+    "cap": 14000000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "TRMB",
+    "name": "Trimble Inc.",
+    "cap": 13870000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "CRL",
+    "name": "Charles River Laboratories International, Inc.",
+    "cap": 13770000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "TXT",
+    "name": "Textron Inc.",
+    "cap": 13600000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "COO",
+    "name": "The Cooper Companies, Inc.",
+    "cap": 13570000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "LII",
+    "name": "Lennox International Inc.",
+    "cap": 13500000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "SJM",
+    "name": "The J. M. Smucker Company",
+    "cap": 13470000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "GL",
+    "name": "Globe Life Inc.",
+    "cap": 13390000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "ALLE",
+    "name": "Allegion plc",
+    "cap": 13360000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "BAX",
+    "name": "Baxter International Inc.",
+    "cap": 13350000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "AVY",
+    "name": "Avery Dennison Corporation",
+    "cap": 13270000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "ERIE",
+    "name": "Erie Indemnity Company",
+    "cap": 13220000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "HAS",
+    "name": "Hasbro, Inc.",
+    "cap": 13050000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "GDDY",
+    "name": "GoDaddy Inc.",
+    "cap": 12830000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "CSGP",
+    "name": "CoStar Group, Inc.",
+    "cap": 12520000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "UDR",
+    "name": "UDR, Inc.",
+    "cap": 12490000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "BF.B",
+    "name": "Brown-Forman Corporation",
+    "cap": 12270000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "PSKY",
+    "name": "Paramount Skydance Corporation",
+    "cap": 12180000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "BXP",
+    "name": "BXP, Inc.",
+    "cap": 12020000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "HRL",
+    "name": "Hormel Foods Corporation",
+    "cap": 11850000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "PNW",
+    "name": "Pinnacle West Capital Corporation",
+    "cap": 11820000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "IT",
+    "name": "Gartner, Inc.",
+    "cap": 11770000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "DVA",
+    "name": "DaVita Inc.",
+    "cap": 11730000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "DECK",
+    "name": "Deckers Outdoor Corporation",
+    "cap": 11690000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "JKHY",
+    "name": "Jack Henry & Associates, Inc.",
+    "cap": 11610000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "TECH",
+    "name": "Bio-Techne Corporation",
+    "cap": 11360000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "DPZ",
+    "name": "Domino's Pizza, Inc.",
+    "cap": 11280000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "ALGN",
+    "name": "Align Technology, Inc.",
+    "cap": 11270000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "HII",
+    "name": "Huntington Ingalls Industries, Inc.",
+    "cap": 11270000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "CLX",
+    "name": "The Clorox Company",
+    "cap": 11250000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "LULU",
+    "name": "lululemon athletica inc.",
+    "cap": 11140000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "SWKS",
+    "name": "Skyworks Solutions, Inc.",
+    "cap": 11140000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "GNRC",
+    "name": "Generac Holdings Inc.",
+    "cap": 11050000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "CPT",
+    "name": "Camden Property Trust",
+    "cap": 11010000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "FDS",
+    "name": "FactSet Research Systems Inc.",
+    "cap": 10740000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "AES",
+    "name": "The AES Corporation",
+    "cap": 10550000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "MGM",
+    "name": "MGM Resorts International",
+    "cap": 10370000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "FRT",
+    "name": "Federal Realty Investment Trust",
+    "cap": 10240000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "PODD",
+    "name": "Insulet Corporation",
+    "cap": 10230000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "HSIC",
+    "name": "Henry Schein, Inc.",
+    "cap": 10010000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "UHS",
+    "name": "Universal Health Services, Inc.",
+    "cap": 10000000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "APTV",
+    "name": "Aptiv PLC",
+    "cap": 9960000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "PNR",
+    "name": "Pentair plc",
+    "cap": 9610000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "WYNN",
+    "name": "Wynn Resorts, Limited",
+    "cap": 9290000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "ARE",
+    "name": "Alexandria Real Estate Equities, Inc.",
+    "cap": 9170000000.0,
+    "bars": []
+  },
+  {
+    "symbol": "AOS",
+    "name": "A. O. Smith Corporation",
+    "cap": 8220000000.000001,
+    "bars": []
+  },
+  {
+    "symbol": "MOS",
+    "name": "The Mosaic Company",
+    "cap": 8220000000.000001,
+    "bars": []
+  },
+  {
+    "symbol": "TAP",
+    "name": "Molson Coors Beverage Company",
+    "cap": 7550000000.0,
+    "bars": []
+  }
+]
