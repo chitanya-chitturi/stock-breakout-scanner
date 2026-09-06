@@ -1,10 +1,12 @@
 import assert from 'node:assert/strict';
 import {scan} from './scanner.ts';
-import {stocks} from './data.ts';
-assert.deepEqual(scan(stocks).map(s=>s.symbol),['SNDK','INTC']);
-const copy=()=>structuredClone(stocks[0]);
+import baseline from '../tests/v1-baseline.json' with {type:'json'};
+import type {Stock} from './scanner';
+const stocks=baseline as Stock[];
+assert.deepEqual(scan(stocks).map(s=>s.symbol),['MU','SNDK','LIN','ORCL','INTC']);
+const copy=()=>structuredClone(stocks.find(s=>s.symbol==='SNDK')!);
 let s=copy();s.cap=5e9;assert.equal(scan([s]).length,0);
-s=copy();s.bars.at(-1)!.volume=13157882.05;assert.equal(scan([s]).length,0);
+s=copy();s.bars.at(-1)!.volume=13214890.05;assert.equal(scan([s]).length,0);
 s=copy();s.bars.at(-1)!.close=1631.4;assert.equal(scan([s]).length,0);
 s=copy();s.bars.at(-1)!.final=false;assert.equal(scan([s]).length,0);
 s=copy();s.bars.at(-1)!.high=2500;assert.equal(scan([s])[0].high,1631.4);
